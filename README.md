@@ -1,9 +1,9 @@
 # Airbnb Experiences Clone
-A fully responsive front-end web application that replicates Airbnb's "Experiences" page using React.js, JSX, and CSS.
+* A fully responsive front-end web application that replicates Airbnb's "Experiences" page using React.js, JSX, and CSS.
 
 # 🧠 Features
-- Interactive UI inspired by Airbnb’s experiences layout
-- Modular and reusable React components (Navbar, Hero, Card)
+* Interactive UI inspired by Airbnb’s experiences layout
+* Modular and reusable React components (Navbar, Hero, Card)
 * Dynamic content rendering using imported JSON data
 * Filtering based on location and availability (static demo behavior)
 * Clean CSS styling for layout and responsive design
